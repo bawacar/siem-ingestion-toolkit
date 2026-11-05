@@ -45,5 +45,7 @@ Project roadmap
 Evidence of impact
 Record independently verifiable contributions such as accepted pull requests, external issue reports, community reuse and workshop invitations. Stars and impressions alone are not evidence of technical impact.
 
+docs/ingestion-troubleshooting.md
+
 License
 Choose and add an open-source license before inviting reuse or contributions.
