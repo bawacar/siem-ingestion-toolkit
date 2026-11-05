@@ -36,6 +36,7 @@ Event accepted, search empty	Repository, query, timestamp or indexing issue	Chec
 Safety and scope
 Use only systems and traffic you own or are authorised to test. Do not upload internal logs, customer information, credentials, infrastructure addresses, or employer-specific configurations. Sanitise screenshots and use synthetic examples.
 Project roadmap
+- [x] [SIEM Ingestion Troubleshooting Guide](docs/ingestion-troubleshooting.md)
 - [ ] Reproduce one failure in a controlled lab
 - [ ] Capture redacted command outputs and diagnostic notes
 - [ ] Add a simple source-to-SIEM architecture diagram
@@ -45,7 +46,6 @@ Project roadmap
 Evidence of impact
 Record independently verifiable contributions such as accepted pull requests, external issue reports, community reuse and workshop invitations. Stars and impressions alone are not evidence of technical impact.
 
-docs/ingestion-troubleshooting.md
 
 License
 Choose and add an open-source license before inviting reuse or contributions.
